@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    background-color: rgb(216, 161, 233);
+    border: solid black 2px;
+    width: auto;
+    margin: 20px;
+    margin-bottom: 0;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+input {
+    width: 150px;
+    height: 40px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#chronometre {
+    background-color: lightgray;
+    border: crimson solid 4px;
+    margin: 10%;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+#list_enregistrement li{
+    list-style: none;
+    width: 70%;
+    margin-right: 10px;
+    margin: auto;
+    background-color: orange;
+    
+}
+section {
+    padding: 5px;
+    margin: 6px;
+    background-color: white;
+}
+input[name="save"]{
+    width: 90%;
+    background-color: orange;
+}
